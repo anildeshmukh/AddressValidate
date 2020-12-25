@@ -8,7 +8,8 @@ Address Validate Application.
 
 Android SDK and Xcode is required to run this project.
 Before using please clone and do npm install.
-Add Yarn to the project 
+Add Yarn to the project
+Go to iOS folder and run pod install
 
 npm install yarn
 
